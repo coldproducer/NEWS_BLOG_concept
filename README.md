@@ -1,3 +1,3 @@
 ﻿# NEWS_BLOG_concept
-hi!, you can find all code in public folder
-Thank u! HAve a nice day
+Hi! you can find all code in public folder
+Thank u! Have a nice day
